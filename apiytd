@@ -1,0 +1,33 @@
+
+<html>
+<head>
+<link href="https://getbootstrap.com/docs/4.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+<script src="https://getbootstrap.com/docs/4.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+<script src="https://www.youtube.com/iframe_api"></script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+<script type="text/javascript" id="www-widgetapi-script" src="https://s.ytimg.com/yts/jsbin/www-widgetapi-vfll-F3yY/www-widgetapi.js" async=""></script>
+</head>
+<body>
+	
+<iframe id="v" width="45%" src="https://www.nicereview.asia/youtube.aspx?v=R9kJdJhEk0A" frameborder="0" allowfullscreen></iframe> 
+<iframe id="v" width="45%" src="https://www.nicereview.asia/youtube.aspx?v=R9kJdJhEk0A" frameborder="0" allowfullscreen></iframe>
+<br>
+<iframe id="v" width="45%" src="https://www.nicereview.asia/youtube.aspx?v=R9kJdJhEk0A" frameborder="0" allowfullscreen></iframe> 
+<iframe id="v" width="45%" src="https://www.nicereview.asia/youtube.aspx?v=R9kJdJhEk0A" frameborder="0" allowfullscreen></iframe>
+<br>
+<iframe id="v" width="45%" src="https://www.nicereview.asia/youtube.aspx?v=R9kJdJhEk0A" frameborder="0" allowfullscreen></iframe> 
+<iframe id="v" width="45%" src="https://www.nicereview.asia/youtube.aspx?v=R9kJdJhEk0A" frameborder="0" allowfullscreen></iframe>
+<br>
+<iframe id="v" width="45%" src="https://www.nicereview.asia/youtube.aspx?v=R9kJdJhEk0A" frameborder="0" allowfullscreen></iframe> 
+<iframe id="v" width="45%" src="https://www.nicereview.asia/youtube.aspx?v=R9kJdJhEk0A" frameborder="0" allowfullscreen></iframe>
+<br>
+<iframe id="v" width="45%" src="https://www.nicereview.asia/youtube.aspx?v=R9kJdJhEk0A" frameborder="0" allowfullscreen></iframe> 
+<iframe id="v" width="45%" src="https://www.nicereview.asia/youtube.aspx?v=R9kJdJhEk0A" frameborder="0" allowfullscreen></iframe>
+<br>
+
+     </body>
+     </html>
